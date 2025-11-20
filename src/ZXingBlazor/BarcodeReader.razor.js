@@ -1,4 +1,5 @@
-import '/_content/ZXingBlazor/lib/zxing/zxing.min.js';
+﻿/*import '/_content/ZXingBlazor/lib/zxing/zxing.min.js';*/
+import './lib/zxing/zxing.min.js';
 let codeReader = null;
 let id = null;
 let supportsVibrate = false;
